@@ -1,0 +1,52 @@
+# Site settings
+title: Danilo's Blog
+description: "Sysadmin, Developer, Student, and Automation Addicted." # use \n to break lines in here
+url: 'https://daniloalsilva.github.io'
+baseurl: '/'
+
+# google_analytics: 'UA-82828808-1'
+disqus_shortname: 'sdanilo'
+
+author:
+  name: 'Danilo Silva'
+  github_username:  daniloalsilva
+  twitter_username: _sdanilo
+  email: daniloalsilva@gmail.com
+  linkedin_username: sdanilo
+#  facebook_username:
+
+gist:
+  noscript: false
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+gems: ['jekyll-paginate', 'jemoji', 'jekyll-sitemap', 'jekyll-gist']
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
