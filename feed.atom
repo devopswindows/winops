@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<link rel="self" href="http://winops.com.br/" />
+	<id>http://winops.com.br/</id>
+	<title>WINOPS</title>
+	<rights>2018</rights>
+	<updated>2018-03-27T16:19:04Z</updated>
+	<logo>http://winops.com.br/images/keyboard1.png</logo>
+	<subtitle>Welcome!</subtitle>
+	<entry>
+		<link href="http://winops.com.br/post/first-post" />
+		<link rel="enclosure" type="image" href="http://winops.com.br/images/keyboard1.png" />
+		<id>http://winops.com.br/post/first-post</id>
+		<title>First Post</title>
+		<updated>2018-03-25T00:00:00Z</updated>
+		<content>&lt;p&gt;Lorem Ipsum
+&amp;quot;Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...&amp;quot;
+&amp;quot;N�o h� ningu�m que ame a dor por si s�, que a busque e queira t�-la, simplesmente por ser dor...&amp;quot;
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu ligula sed sapien tincidunt pulvinar. Nam non nulla at mauris mattis auctor quis quis justo. Curabitur lectus odio, commodo in ligula sed, hendrerit pharetra turpis. Donec pretium leo a suscipit bibendum. Praesent accumsan lorem ligula, id lobortis purus dictum ut. Pellentesque commodo purus urna, faucibus laoreet nibh cursus non. Nunc imperdiet magna sem, et congue erat volutpat sit amet. Sed egestas varius facilisis. Nulla eget lectus posuere, fermentum augue nec, porttitor magna. Phasellus vel efficitur urna, sed cursus leo. Etiam rutrum condimentum pellentesque. Quisque nec libero vestibulum, euismod dolor sed, imperdiet dolor. Suspendisse vehicula, dui vitae rhoncus molestie, enim nulla iaculis enim, sed malesuada augue erat sit amet eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam nec augue semper, tempus leo ut, pulvinar purus. Ut aliquet, metus vel ultricies semper, ex neque luctus magna, eget pellentesque neque mauris non nibh.&lt;/p&gt;
+&lt;p&gt;Duis nisl neque, rutrum a nibh in, porttitor dapibus orci. Morbi sollicitudin, libero molestie vestibulum lacinia, elit magna fermentum sapien, ac commodo libero mi eu turpis. Vestibulum sit amet sodales ipsum. Sed suscipit accumsan odio, at euismod purus varius sit amet. Curabitur tincidunt, massa quis porttitor vestibulum, magna leo tempor nulla, sed lobortis justo velit iaculis quam. Ut eget neque vulputate, fermentum nisl non, iaculis tellus. Donec interdum ipsum felis, nec elementum neque tempus in. Donec placerat non ligula at fermentum. Quisque imperdiet urna tortor, vitae luctus lorem ornare ac. Pellentesque consequat velit eu ex porttitor vulputate.&lt;/p&gt;
+&lt;p&gt;Nulla imperdiet leo et quam faucibus, et viverra nisi pharetra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis tincidunt volutpat quam, a venenatis metus iaculis eget. Nam rutrum neque eu augue tincidunt, accumsan vestibulum tortor condimentum. In vulputate quam nec magna accumsan eleifend. Nullam eleifend rhoncus dictum. Nulla vulputate orci ac felis dictum, non hendrerit tellus blandit. Integer et mollis justo, ut tincidunt ante. Praesent elit neque, tristique eu lacus id, pretium venenatis leo.&lt;/p&gt;
+&lt;p&gt;Suspendisse sit amet velit at odio eleifend ullamcorper vitae vitae arcu. Quisque quis vestibulum lectus. Mauris tempus eros feugiat nulla dignissim, sed dapibus massa molestie. Vivamus interdum porttitor libero, sed porttitor neque gravida sed. Donec non neque ac lorem pellentesque porta in at neque. Sed erat massa, lobortis euismod malesuada id, sodales ut orci. Nulla blandit, arcu eget ullamcorper molestie, elit nisl blandit nulla, a fringilla mi erat nec diam. Etiam sem neque, ornare vel consequat at, maximus dictum ante. Mauris feugiat vehicula quam vel malesuada. Quisque aliquet enim sed turpis tincidunt placerat. Aliquam erat elit, laoreet id ipsum nec, consequat commodo metus.&lt;/p&gt;
+&lt;p&gt;Phasellus auctor bibendum rutrum. Nulla eleifend vestibulum arcu ac varius. Ut eu dictum erat. Mauris nec lectus lobortis urna lobortis condimentum. Phasellus fringilla faucibus nibh, a aliquet sem dignissim vitae. Ut mattis magna orci, consectetur gravida nisi porttitor vitae. Etiam ullamcorper elementum lectus, nec viverra libero bibendum vitae.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Lorem Ipsum
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+"N�o h� ningu�m que ame a dor por si s�, que a busque e queira t�-la, simplesmente por ser dor..."
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu ligula sed sapien tincidunt pulvinar. Nam non nulla at mauris mattis auctor quis quis justo. Curabitur lectus odio, commodo in ligula sed, hendrerit pharetra turpis. Donec pretium leo a suscipit bibendum. Praesent accumsan lorem ligula, id lobortis purus dictum ut. Pellentesque commodo purus urna, faucibus laoreet nibh cursus non. Nunc imperdiet magna sem, et congue erat volutpat sit amet. Sed egestas varius facilisis. Nulla eget lectus posuere, fermentum augue nec, porttitor magna. Phasellus vel efficitur urna, sed cursus leo. Etiam rutrum condimentum pellentesque. Quisque nec libero vestibulum, euismod dolor sed, imperdiet dolor. Suspendisse vehicula, dui vitae rhoncus molestie, enim nulla iaculis enim, sed malesuada augue erat sit amet eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam nec augue semper, tempus leo ut, pulvinar purus. Ut aliquet, metus vel ultricies semper, ex neque luctus magna, eget pellentesque neque mauris non nibh.&lt;/p&gt;</summary>
+	</entry>
+</feed>
